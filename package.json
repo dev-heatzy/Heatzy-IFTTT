@@ -1,0 +1,22 @@
+{
+  "name": "ifttt-boilerplate",
+  "version": "1.0.0",
+  "description": "Home automation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ifttt"
+  ],
+  "author": "Dipen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "child_process": "^1.0.2",
+    "express": "^4.16.2",
+    "googleapis": "^26.0.1",
+    "int-encoder": "^1.1.0",
+    "morgan": "^1.9.0"
+  }
+}
